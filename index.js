@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
     res.status(200).send({
-        msg: "Hello DWFS 54-2"
+        msg: "Hello Guys from DWFS-ONLINE-54"
     });
 });
 
